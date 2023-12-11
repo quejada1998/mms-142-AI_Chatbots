@@ -1,4 +1,4 @@
-# The Site Configuration
+998# The Site Configuration
 
 # Import the theme
 theme: jekyll-theme-chirpy
@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://mms141aichatbots.github.io"
+url: "https://quejada1998.github.io"
 
 github:
   username: github_username # change to your github username
